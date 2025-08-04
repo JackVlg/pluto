@@ -1,0 +1,43 @@
+# Folders
+.idea
+target
+
+# Idea IDE
+*.iml
+
+# Compiled class file
+#*.class
+
+# Other
+*.project
+*.settings
+*.tern-project
+*.classpath
+*.metadata
+.factorypath
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.nar
+*.ear
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#CI/CD
+site.yml
+hosts.ini
+jenkins/*.jenkinsfile
+.vscode
+
